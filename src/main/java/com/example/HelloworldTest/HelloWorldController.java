@@ -9,6 +9,6 @@ public class HelloWorldController {
     @RequestMapping("/")
     public String index()
     {
-        return "Hello World from MacOS!";
+        return "Hello World from MacOS through branch br2!";
     }
 }
